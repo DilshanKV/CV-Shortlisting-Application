@@ -1,5 +1,8 @@
 # CVMatcher: Streamlining Resume Shortlisting
 
+![CV Shortlisting App](images/1.jpg)
+
+
 This repository contains a Python-based CV shortlisting application designed to streamline the candidate selection process. CVMatcher utilizes [Streamlit](https://streamlit.io/) for creating a user-friendly interface and [Sentence Transformers](https://www.sbert.net/) for efficient processing and analysis of resumes. Features include automated resume parsing, extraction of relevant information, intelligent keyword matching, and a customizable user interface.
 
 ## Key Features
